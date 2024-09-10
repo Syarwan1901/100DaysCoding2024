@@ -8,7 +8,7 @@ public class Main {
         // final variable
         final byte umur= 18;
           System.out.println("umur\t : " + umur);
-        final float semangat= 999,f;
+        final float semangat= 999.9f;
           System.out.print("semangat : " + semangat);
         
         
